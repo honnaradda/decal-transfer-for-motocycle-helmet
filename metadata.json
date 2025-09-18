@@ -1,0 +1,5 @@
+{
+  "name": "Decal Transfer for Motocycle Helmet",
+  "description": "Automatically 'reads' the decal from Helmet 1, generates a prompt, and then applies that decal to Helmet 2.",
+  "requestFramePermissions": []
+}
